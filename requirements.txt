@@ -1,0 +1,5 @@
+suit
+django-autocomplete-light
+sorl-thumbnail 
+Pillow
+django-grappelli
